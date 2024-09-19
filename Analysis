@@ -1,0 +1,13 @@
+In the “states” data, identify one binary, one categorical, one ordinal, and one continuous variable:
+binary - deathpen.status - does state retain the death penalty - (Y/N)
+Straightforward as it is either yes or no.
+Problems: any number that isn't 0 or 1 (Y or N)
+categorical - division - census division - group of categories without order (region)
+Generally straightforward, may result in generalizations or mislabeling.
+Problems: categories may result in generalizations, categories may have overlap
+ordinal - biz.tax.rank - state business tax climate ranking - clear order without consistent intervals (ranking)
+Straightforward number but due to ranking there can be irregular intervals.
+Problems: little info about the intervals, creating difficulties in understanding the intervals.
+continuous - abortion.rate - number of abortions per 1000 women 15-44, 2008 - any value within a range and measured on a consistent interval (rates of an action)
+Straightforward but can result in data errors and outliers.
+Problems: outliers can distort data, data entry and collection could have errors.
