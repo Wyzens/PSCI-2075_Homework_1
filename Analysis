@@ -1,4 +1,4 @@
-In the “states” data, identify one binary, one categorical, one ordinal, and one continuous variable:
+Part 1, Questions 5 and 6
 binary - deathpen.status - does state retain the death penalty - (Y/N)
 Straightforward as it is either yes or no.
 Problems: any number that isn't 0 or 1 (Y or N)
@@ -11,3 +11,16 @@ Problems: little info about the intervals, creating difficulties in understandin
 continuous - abortion.rate - number of abortions per 1000 women 15-44, 2008 - any value within a range and measured on a consistent interval (rates of an action)
 Straightforward but can result in data errors and outliers.
 Problems: outliers can distort data, data entry and collection could have errors.
+
+Part 2, Question 3
+I agree with the decision to include deaths from battle-related injuries, such as wounds or diseases, but that can also introduce some vagueness as to what the cutoff is. Could we consider somebody who has a shortened life (passing at 65 instead of 80 due to the effects of a chemical weapon) a battle-related death? Excluding civilian deaths is also a good decision, as it can vary wildly based on the theater and nature of the conflict, but this can also misconstrue the human costs of war. There is also good consistency in reporting the data, using battle-deaths to 1,000 fatalities per year. There can be problems in gathering data, though, as historical records may not be completely accurate, and states either underreport or overreport deaths to benefit themselves.
+
+Part 2, Question 7
+
+Part 3, Question 2
+
+Part 3, Question 3
+
+Part 3, Question 4
+
+Part 3, Question 5
