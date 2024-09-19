@@ -14,6 +14,8 @@ nrow(world)  # Number of observations in world
 # View the states dataset
 View(states)
 
+View(Fatalities)
+
 # Summary of the cook.index3 variable
 summary(states$cook.index3)
 
