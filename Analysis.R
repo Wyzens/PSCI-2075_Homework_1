@@ -45,3 +45,5 @@ min(interstate_wars_data$totallength)
 
 # Create a histogram of the total length of wars
 hist(interstate_wars_data$totallength)
+
+hist(CO_Cities$Average_Age_2022)
